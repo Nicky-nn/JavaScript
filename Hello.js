@@ -1,5 +1,5 @@
-let numero =3;
-const a =5;
+let numero = 3;
+const a = 5;
 console.log(numero);
 console.log(numero+1);
 console.log(numero*2);
